@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMActivatorConsole", "SMActivatorConsole\SMActivatorConsole.csproj", "{A67C0E79-E089-427A-87FB-F367C8BFC732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMActivatorSilent", "SMActivatorSilent\SMActivatorSilent.csproj", "{91095682-F173-42C5-86F4-15C8ED5F984C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67C0E79-E089-427A-87FB-F367C8BFC732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67C0E79-E089-427A-87FB-F367C8BFC732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67C0E79-E089-427A-87FB-F367C8BFC732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67C0E79-E089-427A-87FB-F367C8BFC732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91095682-F173-42C5-86F4-15C8ED5F984C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91095682-F173-42C5-86F4-15C8ED5F984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91095682-F173-42C5-86F4-15C8ED5F984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91095682-F173-42C5-86F4-15C8ED5F984C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86EAB3C4-66D1-4418-8FF8-BBE6B52E6269}
+	EndGlobalSection
+EndGlobal
